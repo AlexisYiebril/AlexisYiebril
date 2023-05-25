@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Chile</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/alexis-norambuena-shakhtour/"> <img src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1692835200&v=beta&t=cAK17KuGjp3LXMl0Qp-Dw-WCvzyG5T87T5-TpVtS_rs" alt="linkedin" width="40" height="40">   Linkedin
+<p align="left"> <a href="https://www.linkedin.com/in/alexis-norambuena-shakhtour/"> <img src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1692835200&v=beta&t=cAK17KuGjp3LXMl0Qp-Dw-WCvzyG5T87T5-TpVtS_rs" alt="linkedin" width="40" height="40">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
